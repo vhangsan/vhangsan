@@ -11,7 +11,7 @@ Hi, I am Veronica! I am a senior at UC Davis, pursuing my Bachelor’s in Comput
 ## 🌟 What I’m Up to Right Now
 
 - **Learning:** TypeScript, TailwindCSS, and improving my full-stack development skills
-- **Working On:** Vite-based course recommender tool for UC Davis students with features to filter, search, and favorite courses. Our goal is to help students find the best courses for the quarter and make informed decisions.
+- **Working On:** In collaboration with team of 8 from **[AggieWorks](https://www.aggieworks.com)**, we developed a Vite-based course recommender tool for UC Davis students, featuring options to filter, search, and favorite courses. Our goal is to help students find the best courses for the quarter and make informed decisions.
 
 Check it out here: https://daviscattlelog.com/ 👈🏼
 
